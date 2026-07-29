@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-users-with-valid-e-mails/">1517. Find Users With Valid E-Mails</a></h2><h3>Easy</h3><hr><p>Table: <code>Users</code></p>
+<h2><a href="https://leetcode.com/problems/find-users-with-valid-e-mails">1517. Find Users With Valid E-Mails</a></h2><h3>Easy</h3><hr><p>Table: <code>Users</code></p>
 
 <pre>
 +---------------+---------+
@@ -20,7 +20,7 @@ This table contains information of the users signed up in a website. Some e-mail
 
 <ul>
 	<li><strong>The prefix name</strong> is a string that may contain letters (upper or lower case), digits, underscore <code>&#39;_&#39;</code>, period <code>&#39;.&#39;</code>, and/or dash <code>&#39;-&#39;</code>. The prefix name <strong>must</strong> start with a letter.</li>
-	<li><strong>The domain</strong> is <code>&#39;@leetcode.com&#39;</code>.</li>
+	<li><strong>The domain</strong> must be exactly <code>&#39;@leetcode.com&#39;</code> in lowercase.</li>
 </ul>
 
 <p>Return the result table in <strong>any order</strong>.</p>
