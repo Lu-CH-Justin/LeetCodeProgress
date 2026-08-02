@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/nth-highest-salary">177. Nth Highest Salary</a></h2><h3>Medium</h3><hr><p>Table: <code>Employee</code></p>
+<h2><a href="https://leetcode.com/problems/nth-highest-salary/">177. Nth Highest Salary</a></h2><h3>Medium</h3><hr><p>Table: <code>Employee</code></p>
 
 <pre>
 +-------------+------+
